@@ -1,0 +1,58 @@
+
+.sky {
+    position: absolute;
+    height: 30%;
+    background: lightblue;
+    box-sizing: border-box;
+    width: 100%;
+}
+.grass {
+    position: absolute;
+    height: 30%;
+    background: green;
+    box-sizing: border-box;
+    border-top: 10px solid green;
+    border-bottom: 10px solid green;
+    width: 100%;
+}
+.road {
+    position: absolute;
+    height: 30%;
+    background: dimgrey;
+    box-sizing: border-box;
+    border-top: 10px solid grey;
+    border-bottom: 10px solid grey;
+    width: 100%;
+}
+.Plane {
+    position: absolute;
+  top: 50px;
+  left: 400px;
+  
+}
+.Car {
+    position: absolute;
+    top: 600px;
+    left: 300px;
+    
+}
+.cloud {
+    position: absolute;
+    right: 400px;
+}
+.cloud2 {
+    position: absolute;
+    right: 300px;
+    bottom: 700px;
+    opacity: 65%;
+}
+.bird {
+    position: absolute;
+    right: 800px;
+}
+.bird2 {
+    position: absolute;
+    right: 700px;
+}
+
+
